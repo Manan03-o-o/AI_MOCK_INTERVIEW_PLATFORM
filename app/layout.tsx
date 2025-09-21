@@ -13,7 +13,7 @@ const monaSans = Mona_Sans({
 
 // Metadata for the whole app
 export const metadata: Metadata = {
-    title: "PrepWise",
+    title: "Prepify",
     description: "An AI-powered platform for preparing for mock interviews",
 };
 
